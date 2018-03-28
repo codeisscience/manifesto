@@ -16,7 +16,7 @@ Follow good practices from the start of the project; don’t build up technical 
 ### Incorrect code results in incorrect science
 Code should be peer reviewed. Ensure that at least one reviewer understands code well enough to evaluate it critically, as well as domain experts who can comment on the specific scientific area.  
 ### Availability over perfection
-You don’t have to be a computer scientist to write code, and your code doesn’t have to be perfect. There is always room to improve your skills — some intensive training courses such as ![Software Carpentry](https://software-carpentry.org/) only take a day or two. 
+You don’t have to be a computer scientist to write code, and your code doesn’t have to be perfect. There is always room to improve your skills — some intensive training courses such as [Software Carpentry](https://software-carpentry.org/) only take a day or two. 
 Be nice and provide constructive criticism, when reviewing recognise that people make mistakes in good faith. 
 ### Code deserves credit
 Software should be cited and acknowledged as scientific output. This means you should cite your sources as well as ask to be cited yourself. 
