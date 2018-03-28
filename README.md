@@ -13,3 +13,5 @@ After you sign up, you add this badge to all your Github projects and your profi
 ```
 ![https://img.shields.io/badge/Code%20of%20Science%20Manifesto-%E2%9C%93-green.svg](https://img.shields.io/badge/Code%20of%20Science%20Manifesto-%E2%9C%93-green.svg)
 ```
+## Stickers
+Stickers will be available soon. 
