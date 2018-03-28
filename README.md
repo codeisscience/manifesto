@@ -2,6 +2,7 @@ This is the repository supporting the website for the [Code is Science Manifesto
 
 TL;DR: Scientific code needs to be open source in order to be useful and peer reviewed
 
+
 ### Support The Manifesto
 Right now we're in the [60 day consultation period](roadmap.md) to allow potentially interested parties to comment on the manifesto draft before we officially begin to collect signatures.
 
