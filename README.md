@@ -11,16 +11,16 @@ Please follow our [Code of Conduct](codeofconduct.md).
 If you'd like to comment on the draft during the consultation period, you can do any of:
 
 - Fill out [this form](https://goo.gl/forms/dgvUjzkEYJqJJJrx2) with your feedback comments.
-- Create a [GitHub issue](https://github.com/codeisscience/manifesto/issues/new?title=[Manifesto%20Comment]) (requires GitHub account)
+- Create a [GitHub issue](https://github.com/codeisscience/manifesto/issues/new?title=[Manifesto%20Comment]) (requires GitHub account).
 - [Fork the repo](https://github.com/codeisscience/manifesto/fork) and create a pull request with suggested amendments. 
 
 ## Mailing list
 
-[Sign up for updates on the Code is Science Manifesto.](https://goo.gl/forms/gzd3dugLkZV92gms1) 
+[Sign up for updates on the Code is Science Manifesto](https://goo.gl/forms/gzd3dugLkZV92gms1). 
 
 ## Badges
-After you sign up, you add this badge to all your Github projects and your profile: 
-![https://img.shields.io/badge/Code%20of%20Science%20Manifesto-%E2%9C%93-green.svg](https://img.shields.io/badge/Code%20of%20Science%20Manifesto-%E2%9C%93-green.svg)
+After signing, you can add ![https://img.shields.io/badge/Code%20of%20Science%20Manifesto-%E2%9C%93-green.svg](https://img.shields.io/badge/Code%20of%20Science%20Manifesto-%E2%9C%93-green.svg) to all your Github projects and your profile: 
+
 
 ## Contributors
 We are in the process of requesting permission to publish a full list of contributors. 
