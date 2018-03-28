@@ -19,8 +19,10 @@ Follow [good practices](https://software.ac.uk/resources/guides/software-develop
 Code published in journals should be peer reviewed. Ensure that at least one reviewer understands code well enough to evaluate it critically, as well as domain experts who can comment on the specific scientific area.  
 
 ### Availability over perfection
-YYou don’t have to be a computer scientist or professional software developer to write code, and your code doesn’t have to be perfect in order to be published. If code produces paper-ready results, the code too is paper-ready.
+You don’t have to be a computer scientist or professional software developer to write code, and your code doesn’t have to be perfect in order to be published. If code produces paper-ready results, the code too is paper-ready.
+
 There is always room to improve your skills — some intensive training courses such as [Software Carpentry](https://software-carpentry.org/) only take a day or two. 
+
 Be nice and provide [constructive criticism](https://www.software.ac.uk/blog/2017-05-11-constructive-code-critique), when reviewing recognise that people make mistakes in good faith. 
 
 ### Code deserves credit
