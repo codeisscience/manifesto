@@ -1,28 +1,27 @@
 # Code is Science Manifesto
 
-Through working with scientific code, we agree that scientific code needs to be treated as a genuine research output.
+Through working with scientific code, we agree that scientific code needs to be treated as a genuine research output. For this reason we have created a [manifesto](manifesto.md), which will allow both individuals and organisations to sign up and agree to make genuine efforts to both make their own scientific code open, as well as sharing the manifesto mission with others. 
 
-## Preamble
-Code is science. Historically, science has been reviewed by its peers to validate it before being published. In modern times, computer code forms part of scientific analysis, but it is rarely shared and reviewed. 
+## How can I contribute? 
 
-This manifesto is for anyone who deals with code in a scientific setting, including publishers, researchers, research software engineers, and administrators. 
+Right now, we're looking for feedback about the text of the manifesto, although we're hopeful that it's pretty close to the final thing. You can also look at the [issues](https://github.com/codeisscience/manifesto/issues/) on github and see if there's anything else you can pick up. You can also look at our [roadmap](roadmap.md) to get an understanding of our timeline. 
 
-## Manifesto Principles
+### Comments or thoughts on the draft?
 
-### Open over closed
-Ideally scientific code should be released by the time of publication, under an open source licence, such that anyone may download, review, re-use and expand upon it.
-### Code for the future
-Follow [good practices](https://software.ac.uk/resources/guides/software-development-general-best-practice) from the start of the project; don’t build up [technical debts](https://en.wikipedia.org/wiki/Technical_debt) that are hard to fix later. This generally means testing, writing documentation, instructions on how to run and maintain your code, and following modern development practices.
-### Incorrect code results in incorrect science
-Code published in journals should be peer reviewed. Ensure that at least one reviewer understands code well enough to evaluate it critically, as well as domain experts who can comment on the specific scientific area.  
-### Availability over perfection
-YYou don’t have to be a computer scientist or professional software developer to write code, and your code doesn’t have to be perfect in order to be published. If code produces paper-ready results, the code too is paper-ready.
-There is always room to improve your skills — some intensive training courses such as [Software Carpentry](https://software-carpentry.org/) only take a day or two. 
-Be nice and provide [constructive criticism](https://www.software.ac.uk/blog/2017-05-11-constructive-code-critique), when reviewing recognise that people make mistakes in good faith. 
-### Code deserves credit
-Software should be [cited](You don’t have to be a computer scientist or professional software developer to write code, and your code doesn’t have to be perfect in order to be published. If code produces paper-ready results, the code too is paper-re) and acknowledged as scientific output. This means you should cite your sources as well as ask to be cited yourself. 
+If you'd like to comment on the draft **during the consultation period**, you can do any of:
 
-## Background
-- [Agile Manifesto](http://agilemanifesto.org/)
-- [Data Ops Manifesto](http://dataopsmanifesto.org/)
-- [Software Sustainability Institute Collaboration Workshop 2018](https://www.software.ac.uk/cw18/)
+- Fill out this form with your feedback comments
+- Create a [GitHub issue](https://github.com/codeisscience/manifesto/issues/new?title=[Manifesto%20Comment]) (requires GitHub account)
+- [Fork the repo](https://github.com/codeisscience/manifesto/fork) and create a pull request with suggested amendments. 
+
+### I want to sign up! Tell me how
+
+If you want to recieve updates, including a **reminder about when the manifesto is officially open for sign-up**, please [sign up to our mailing list](https://docs.google.com/forms/d/17scFPijhXh3dQzmk4yJEL9gijaPRLYFKvuNTqFV_e04/viewform?edit_requested=true).
+
+If you'd like to provide your support before we finalise the consultation period, please contact us using one of the methods below. We're particularly interested in adding logos and links indicating organisational support from publishers, funders, and research institutions.
+
+### Contact
+
+Twitter: [twitter.com/codeisscience/]
+Email: contact@codeisscience.com
+GitHub: You can also [create issues on the manifesto repository](https://github.com/codeisscience/manifesto/issues/new?title=[Manifesto%20Comment])
