@@ -19,15 +19,15 @@ If you'd like to comment on the draft during the consultation period, you can do
 [Sign up for updates on the Code is Science Manifesto](https://goo.gl/forms/gzd3dugLkZV92gms1). 
 
 ## Badges
-After signing, you can add ![https://img.shields.io/badge/Code%20of%20Science%20Manifesto-%E2%9C%93-green.svg](https://img.shields.io/badge/Code%20of%20Science%20Manifesto-%E2%9C%93-green.svg) to all your Github projects and your profile: 
+After signing, you can add ![https://img.shields.io/badge/Code%20is%20Science%20Manifesto-%E2%9C%93-brightgreen.svg](https://img.shields.io/badge/Code%20is%20Science%20Manifesto-%E2%9C%93-brightgreen.svg) to all your Github projects and your profile. Remember to link back to the [Code is Science Manifesto](https://codeisscience.github.io/manifesto/) page. 
 
+```
+![https://img.shields.io/badge/Code%20is%20Science%20Manifesto-%E2%9C%93-brightgreen.svg](https://img.shields.io/badge/Code%20is%20Science%20Manifesto-%E2%9C%93-brightgreen.svg)
+```
 
 ## Contributors
 We are in the process of requesting permission to publish a full list of contributors. 
 
-```
-![https://img.shields.io/badge/Code%20of%20Science%20Manifesto-%E2%9C%93-green.svg](https://img.shields.io/badge/Code%20of%20Science%20Manifesto-%E2%9C%93-green.svg)
-```
 ### Stickers
 Stickers will be available soon. 
 
