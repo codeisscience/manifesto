@@ -10,7 +10,7 @@ Right now, we're looking for feedback about the text of the manifesto, although 
 
 If you'd like to comment on the draft **during the consultation period**, you can do any of:
 
-- Fill out this form with your feedback comments
+- Fill out [this form](https://goo.gl/forms/dgvUjzkEYJqJJJrx2) with your feedback comments
 - Create a [GitHub issue](https://github.com/codeisscience/manifesto/issues/new?title=[Manifesto%20Comment]) (requires GitHub account)
 - [Fork the repo](https://github.com/codeisscience/manifesto/fork) and create a pull request with suggested amendments. 
 
