@@ -26,7 +26,7 @@ There is always room to improve your skills — some intensive training courses 
 Be nice and provide [constructive criticism](https://www.software.ac.uk/blog/2017-05-11-constructive-code-critique), when reviewing recognise that people make mistakes in good faith. 
 
 ### Code deserves credit
-Software should be [cited](You don’t have to be a computer scientist or professional software developer to write code, and your code doesn’t have to be perfect in order to be published. If code produces paper-ready results, the code too is paper-re) and acknowledged as scientific output. This means you should cite your sources as well as ask to be cited yourself. 
+Software should be [cited](https://www.force11.org/software-citation-principles)(You don’t have to be a computer scientist or professional software developer to write code, and your code doesn’t have to be perfect in order to be published. If code produces paper-ready results, the code too is paper-ready) and acknowledged as scientific output. This means you should cite your sources as well as ask to be cited yourself. 
 
 ## Background
 - [Agile Manifesto](http://agilemanifesto.org/)
