@@ -16,7 +16,7 @@ If you'd like to comment on the draft **during the consultation period**, you ca
 
 ### I want to sign up! Tell me how
 
-If you want to recieve updates, including a **reminder about when the manifesto is officially open for sign-up**, please [sign up to our mailing list](https://docs.google.com/forms/d/17scFPijhXh3dQzmk4yJEL9gijaPRLYFKvuNTqFV_e04/viewform?edit_requested=true).
+If you want to receive updates, including a **reminder about when the manifesto is officially open for sign-up**, please [sign up to our mailing list](https://docs.google.com/forms/d/17scFPijhXh3dQzmk4yJEL9gijaPRLYFKvuNTqFV_e04/viewform?edit_requested=true).
 
 If you'd like to provide your support before we finalise the consultation period, please contact us using one of the methods below. We're particularly interested in adding logos and links indicating organisational support from publishers, funders, and research institutions.
 
