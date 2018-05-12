@@ -13,7 +13,7 @@ This manifesto is for anyone who deals with code in a scientific setting, includ
 Ideally scientific code should be released by the time of publication, under an open source licence, such that anyone may download, review, re-use and expand upon it.
 
 ### Incorrect code results in incorrect science
-Code published in journals should be peer reviewed. Ensure that at least one reviewer understands code well enough to evaluate it critically, as well as domain experts who can comment on the specific scientific area.
+Published code should be peer reviewed. Ensure that at least one reviewer understands code well enough to evaluate it critically, as well as domain experts who can comment on the specific scientific area.
 
 ### Code for the future
 Follow [good practices](https://software.ac.uk/resources/guides/software-development-general-best-practice) from the start of the project; don’t build up [technical debts](https://en.wikipedia.org/wiki/Technical_debt) that are hard to fix later. This generally means testing, writing documentation, instructions on how to run and maintain your code, and following modern development practices. 
