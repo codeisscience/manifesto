@@ -25,3 +25,6 @@ If you'd like to provide your support before we finalise the consultation period
 - Twitter: [@codeisscience](https://twitter.com/codeisscience/)
 - Email: contact@codeisscience.com
 - GitHub: You can also [create issues on the manifesto repository](https://github.com/codeisscience/manifesto/issues/new?title=[Manifesto%20Comment])
+
+
+[Tweet this](https://twitter.com/intent/tweet?ref_src=twsrc%5Etfw&related=%40codeisscience&text=I%20adhere%20to%20the%20%22Code%20is%20Science%22%20manifesto%20via%20%40codeisscience%20https%3A%2F%2Fcodeisscience.github.io%2Fmanifesto%2Fmanifesto%2C%20so%20can%20you%20too!&tw_p=tweetbutton&url=file%3A%2F%2F%2Fh%2Fk%2Findex.html)
