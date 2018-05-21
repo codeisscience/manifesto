@@ -16,7 +16,7 @@ Ideally scientific code should be released by the time of publication, under an 
 Published code should be peer reviewed. Ensure that at least one reviewer understands code well enough to evaluate it critically, as well as domain experts who can comment on the specific scientific area.
 
 ### Code for the future
-Follow [good practices](https://software.ac.uk/resources/guides/software-development-general-best-practice) from the start of the project; don’t build up [technical debts](https://en.wikipedia.org/wiki/Technical_debt) that are hard to fix later. This generally means testing, writing documentation, instructions on how to run and maintain your code, and following modern development practices. 
+Follow [good practices](https://software.ac.uk/resources/guides/software-development-general-best-practice) from the start of the project; don’t build up [technical debts](https://en.wikipedia.org/wiki/Technical_debt) that are hard to fix later. This generally means automated testing, writing documentation, instructions on how to run and maintain your code, and following modern development practices. 
 
 ### Availability over perfection
 You don’t have to be a computer scientist or professional software developer to write code, and your code doesn’t have to be perfect in order to be published. If code produces paper-ready results, the code too is paper-ready.
