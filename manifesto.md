@@ -1,11 +1,10 @@
 # Code is Science Manifesto
 
-Through working with scientific code, we agree that it needs to be treated as a
-primary research output.
+We agree that scientific code needs to be treated as a primary research output.
 
 ## Preamble
 
-Code is science. Historically, science has been reviewed by its peers to
+Code is science. Historically, the work of scientists has been reviewed by their peers to
 validate it before being published. In modern times, computer code forms part of
 scientific analysis, but it is rarely shared or reviewed.
 
@@ -48,7 +47,7 @@ two.
 
 When reviewing code be nice and provide [constructive
 criticism](https://www.software.ac.uk/blog/2017-05-11-constructive-code-critique).
-It is important recognise that people make mistakes in good faith.
+It is important to recognise that people make mistakes in good faith.
 
 ### Code deserves credit
 
