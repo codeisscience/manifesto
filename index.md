@@ -4,15 +4,16 @@ Through working with scientific code, we agree that scientific code needs to be 
 
 ## I want to express my support for the manifesto! Tell me how
 
-[Sign the manifesto as an individual]()
-[Sign the manifesto as an organisation or institution](https://docs.google.com/forms/d/e/1FAIpQLSdUPKlP__5saaYMyEJwkHF3gRNAHiKihOlp6zd6QK4vUqs3gg/viewform?usp=sf_link) - Please make sure you have authority to sign on behalf of your organisation before you do this.
+- [Sign the manifesto as an individual](https://docs.google.com/forms/d/e/1FAIpQLSeaDLDaREkUyOwpvbQf41hxT12ixoBToTdBhlgTj_YoW0tSgw/viewform?usp=sf_link)
+- [Sign the manifesto as an organisation or institution](https://docs.google.com/forms/d/e/1FAIpQLSdUPKlP__5saaYMyEJwkHF3gRNAHiKihOlp6zd6QK4vUqs3gg/viewform?usp=sf_link) - Please make sure you have authority to sign on behalf of your organisation before you sign on behalf of an organisation.
 
  We're particularly interested in adding logos and links indicating organisational support from publishers, funders, and research institutions.
 
 ## How can I contribute? 
 
-Sign the manifesto and share with all your friends! Add links to your personal and institutional sites. 
-You can also look at the [issues](https://github.com/codeisscience/manifesto/issues/) on github and see if there's anything else you can pick up. You can also look at our [roadmap](roadmap.md) to get an understanding of our timeline. 
+- Sign the manifesto and share with all your friends! 
+- Add links to your personal and institutional sites. 
+- You can also look at the [issues](https://github.com/codeisscience/manifesto/issues/) on github and see if there's anything else you can pick up. You can also look at our [roadmap](roadmap.md) to get an understanding of our timeline. 
 
 ### Contact
 
