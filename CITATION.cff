@@ -34,4 +34,5 @@ authors:
 version: '1.0'
 date-released: 2019-10-13
 repository-code: https://github.com/codeisscience/manifesto
-license: other-open
+license: CC0-1.0
+url: https://codeisscience.github.io/manifesto/
