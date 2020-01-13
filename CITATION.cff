@@ -1,0 +1,36 @@
+# YAML 1.2
+# Metadata for citation of this software according to the CFF format (https://citation-file-format.github.io/)
+cff-version: 1.0.3
+message: If you use this software, please cite it using these metadata.
+title: 'Code is Science Manifesto: First Release'
+doi: 10.5281/zenodo.3484107
+authors:
+- given-names: Yo
+  family-names: Yehudi
+  affiliation: '@intermine at the University of Cambridge'
+- given-names: Selina
+  family-names: Aragon
+- given-names: Yee
+  family-names: Mun
+- given-names: Alexander
+  family-names: Konovalov
+  affiliation: University of St Andrews
+- given-names: Vince
+  family-names: Knight
+  affiliation: Cardiff University, School of Mathematics
+- given-names: Philippe
+  family-names: Rivière
+  affiliation: Visionscarto.net
+- given-names: Egon
+  family-names: Willighagen
+  affiliation: '@BiGCAT-UM'
+- given-names: Chris
+  family-names: Ilozulu
+- given-names: Alexander
+  family-names: Morley
+  affiliation: MRC BNDU (University of Oxford)
+version: '1.0'
+date-released: 2019-10-13
+repository-code: https://github.com/codeisscience/manifesto
+license: CC0-1.0
+url: https://codeisscience.github.io/manifesto/
